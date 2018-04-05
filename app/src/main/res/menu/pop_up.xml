@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/one"
+        android:title=" ( "
+        android:width="18dp" android:height="18dp"
+        />
+
+    <item
+        android:id="@+id/two"
+        android:title=" ) "
+        android:width="18dp" android:height="18dp"
+        />
+
+    <item
+        android:id="@+id/three"
+        android:title=" ^ "
+        android:width="18dp" android:height="18dp"
+        />
+
+</menu>
